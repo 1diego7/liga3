@@ -30,7 +30,7 @@
   exit(0);
  }
   // Imprimo las etiquetas HTML iniciales
-  HTML::cabeceras(array('title'      =>'Pruebas LIGA 3',
+  HTML::cabeceras(array('title'      =>'Pruebas LIGA 3 Diego Dominguez Lopez',
 			'description'=>'Página de pruebas para LIGA 3',
 			'css'        =>'util/LIGA.css',
 			'style'      =>'label { width:100px; }'
